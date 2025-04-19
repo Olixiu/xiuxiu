@@ -1,0 +1,12 @@
+name: "xiuxiu"
+output_dir: "docs"
+navbar:
+  title: "Xiuxiu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Speed and Distance"
+      href: speed-and-distance.html
+output:
+  html_document:
+    theme: cosmo
